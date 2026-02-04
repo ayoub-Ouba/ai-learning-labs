@@ -1,7 +1,7 @@
 # ai-learning-labs
 
 Ce dépôt contient mes travaux pratiques en apprentissage automatique réalisés dans le cadre de ma formation.  
-L’objectif est de comprendre et implémenter les principaux algorithmes de Machine Learning **sans utiliser de bibliothèques haut-niveau** (comme scikit-learn).
+L’objectif est de comprendre et implémenter les principaux algorithmes de Machine Learning .
 
 ## 📂 Contenu
 - **Régression linéaire** : implémentation simple avec calcul du coût et de la descente de gradient.  
